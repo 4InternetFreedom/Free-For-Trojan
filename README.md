@@ -23,7 +23,10 @@ https://freedomvpn.ml/api/v1/client/subscribe?token=bc4f79aee138006ce64560a4b9a7
 
 导入客户端即可, 请享用~ 
 
+若不可用, 请提issues!
+
 
 PS: 开源不易, 望多多支持本机场, 机场虽小, 但是用心服务好每个用户, 使得网络自由是本机场的宗旨!
 
 机场链接: https://freedomvpn.ml/
+
